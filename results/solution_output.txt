@@ -1,0 +1,2 @@
+Shortest path: Warehouse_Kadikoy -> Hub_Uskudar -> District_Maltepe
+Total distance: 11.50 km
