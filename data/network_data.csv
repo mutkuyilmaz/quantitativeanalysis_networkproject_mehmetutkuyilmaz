@@ -1,0 +1,11 @@
+source,target,distance_km
+Warehouse_Kadikoy,Hub_Uskudar,4.2
+Warehouse_Kadikoy,Hub_Besiktas,8.5
+Hub_Uskudar,District_Umraniye,6.1
+Hub_Uskudar,District_Maltepe,7.3
+Hub_Besiktas,District_Sisli,3.8
+Hub_Besiktas,District_Kagithane,5.6
+District_Umraniye,District_Maltepe,9.2
+District_Sisli,District_Kagithane,4.1
+Warehouse_Kadikoy,District_Sisli,11.0
+Hub_Uskudar,Hub_Besiktas,6.7
